@@ -6,7 +6,7 @@
 
 
 function ActivateVirtual() {
-	py -m venv env
+	python -m venv env
 	.\env\scripts\activate.ps1
 }
 
