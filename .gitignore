@@ -134,3 +134,5 @@ desktop.ini
 
 # Local test files
 *.orig
+
+env/
